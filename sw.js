@@ -1,6 +1,6 @@
 const filesToCache = [
-  '/',
-  '/index.html'
+  './',
+  './index.html'
 ];
 const cacheName = 'ebook';
 
